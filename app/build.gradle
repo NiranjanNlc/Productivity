@@ -33,6 +33,7 @@ android {
 }
 
 dependencies {
+    def nav_version = "2.4.2"
 
     implementation 'androidx.core:core-ktx:1.7.0'
     implementation 'androidx.appcompat:appcompat:1.4.1'
@@ -45,7 +46,9 @@ dependencies {
     //Firebase
     implementation 'com.google.firebase:firebase-auth-ktx:21.0.1'
     //Fragmebt and navigation Framework
-
+    // Kotlin
+    implementation "androidx.navigation:navigation-fragment-ktx:$nav_version"
+    implementation "androidx.navigation:navigation-ui-ktx:$nav_version"
     //Room databases
 
 

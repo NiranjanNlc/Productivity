@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "509913059019",
+    "project_id": "productivity-nlc",
+    "storage_bucket": "productivity-nlc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509913059019:android:5dac15b469fa2fb288954e",
+        "android_client_info": {
+          "package_name": "com.example.habittracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509913059019-g8tse518e9ou28eo24qp7ju6b7k9ptqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEJbLKqPKmdBDJDbA81pN1K1f1hn202xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509913059019-g8tse518e9ou28eo24qp7ju6b7k9ptqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

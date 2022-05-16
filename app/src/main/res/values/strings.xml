@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Habit Tracker</string>
+    <string name="profile">Profile</string>
+    <string name="hab_list">Habit List</string>
+    <string name="reslt">Achievement</string>
+
 </resources>

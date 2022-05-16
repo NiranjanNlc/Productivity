@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:id="@+id/action_habit"
+            android:title="@string/hab_list"
+            android:icon="@drawable/habits" />
+        <item android:id="@+id/action_result"
+            android:title="@string/reslt"
+            android:icon="@drawable/result" />
+        <item android:id="@+id/action_profile"
+            android:title="@string/profile"
+            android:icon="@drawable/profile" />
+</menu>
